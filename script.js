@@ -1,4 +1,4 @@
-let value=document.getElementById('clear').value;
+let value=16;
 
 const con=document.getElementById('container')
 		con.style.display='flex'
